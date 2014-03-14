@@ -1,8 +1,6 @@
 -------------------------------------------------------------------------------
--- Company: Winter Quarter 2014
 -- Engineer: Robin Choudhury & Angela Yoeurng
 -- Create Date:    18:26:28 02/05/2014
--- Design Name:    RAT_CPU
 -- Module Name:    RAT_CPU - Behavioral
 -------------------------------------------------------------------------------
 library IEEE;

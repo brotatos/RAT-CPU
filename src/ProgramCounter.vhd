@@ -1,9 +1,7 @@
 -------------------------------------------------------------------------------
--- Company:
 -- Engineer: Angela Yoeurng & Robin Choudhury
 --
 -- Create Date:    09:37:40 01/13/2014
--- Design Name:
 -- Module Name:    ProgramCounter - Behavioral
 -------------------------------------------------------------------------------
 library IEEE;

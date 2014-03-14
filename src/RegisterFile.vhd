@@ -31,7 +31,6 @@ begin
          D_IN <= IN_PORT;
       else
          D_IN <= (others=>'Z');
-         -- D_IN <= (others=>'0');
       end if;
    end process;
 

@@ -1,8 +1,9 @@
+-------------------------------------------------------------------------------
+-- Engineer: Robin Choudhury & Angela Yoeurng
 --
 -- A flip-flop to store the the register values for C Flag and Z flag.
 -- To be used in the RAT CPU.
---
---
+-------------------------------------------------------------------------------
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;

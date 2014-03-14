@@ -1,9 +1,7 @@
 -------------------------------------------------------------------------------
--- Company:
--- Engineer:
+-- Engineer: Robin Choudhury & Angela Yoeurng
 --
 -- Create Date:    09:37:23 01/27/2014
--- Design Name:
 -- Module Name:    alu - Behavioral
 -------------------------------------------------------------------------------
 library IEEE;

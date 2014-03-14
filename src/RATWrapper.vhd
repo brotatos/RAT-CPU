@@ -1,7 +1,10 @@
+-------------------------------------------------------------------------------
+-- Engineer: Robin Choudhury & Angela Yoeurng
+--
+-- Module Name:    RAT_wrapper - Behavioral
 --
 -- A wrapper module that connects the RAT CPU to all it's inputs and outputs.
---
-
+-------------------------------------------------------------------------------
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
@@ -25,9 +28,6 @@ entity RAT_wrapper is
            VGA_VS                : out std_logic);
 
 end RAT_wrapper;
-
-
-
 
 architecture Behavioral of RAT_wrapper is
 
